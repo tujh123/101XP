@@ -1,0 +1,97 @@
+html {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.block1 {
+  background-image: url("../../images/block-1_header/1_HEADER_bg.jpg");
+  background-repeat: no-repeat;
+  -moz-background-size: 100%; /* Firefox 3.6+ */
+  -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+  -o-background-size: 100%; /* Opera 9.6+ */
+  background-size: 100% 100%; /* Современные браузеры */
+  min-height: 1000px;
+  display: block;
+  position: relative;
+  text-align: center;
+
+  &_header {
+    -webkit-background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    &-logo {
+      width: 55%;
+    }
+    &-head {
+      width: 68%;
+    }
+    &-play {
+      background-image: url("../../images/btn/BTN_play_normal.png");
+    }
+    &-play > img:hover {
+      background-image: url("../../images/btn/BTN_play_hover.png");
+    }
+    &-play > img:active {
+      background-image: url("../../images/btn/BTN_play_active.png");
+    }
+    &-text {
+      //    font-size: 24px;
+      //font-family: "Lora";
+      //color: rgb(199, 199, 199);
+      //line-height: 1.5;
+      //text-align: center;
+      font-size: 24px;
+      font-family: "Lora";
+      color: rgb(238, 238, 238);
+      line-height: 1.5;
+      text-align: center;
+      position: absolute;
+      left: 478.244px;
+      top: 746.597px;
+      width: 942px;
+      height: 171px;
+      z-index: 13;
+    }
+  }
+}
+
+.btnScroll {
+  -webkit-background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  &_header {
+    display: block;
+    position: absolute;
+    left: 47.5%;
+    bottom: 25px;
+    background-image: url("../../images/btn/BTN_scroll_normal.png");
+  }
+  &_header > img:hover {
+    background-image: url("../../images/btn/BTN_scroll_hover.png");
+  }
+  &_header > img:active {
+    background-image: url("../../images/btn/BTN_scroll_active.png");
+  }
+}
+
+.block2 {
+  background-image: url("../../images/block-2_chars/2_CHARS_bg_Isolda.jpg");
+  background-repeat: no-repeat;
+  -moz-background-size: 100%; /* Firefox 3.6+ */
+  -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+  -o-background-size: 100%; /* Opera 9.6+ */
+  background-size: 100% 100%; /* Современные браузеры */
+  min-height: 1000px;
+  display: block;
+  position: relative;
+  text-align: center;
+}

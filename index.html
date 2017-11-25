@@ -10,8 +10,14 @@
 
     <title>101XP.com</title>
 
-    <!-- Theme CSS -->
+    <!--CSS -->
     <link href="static/styles/css/style.css" rel="stylesheet">
+    <link href="third/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!--JS -->
+    <script type="text/javascript" src="third/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="third/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="static/js/js.js"></script>
 
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"
@@ -22,7 +28,52 @@
             crossorigin="anonymous"></script>
     <![endif]-->
 </head>
-<body id="page-top" class="index">
+<body id="index" class="index">
+<section id="header" class="block1">
+    <div class="container">
+        <div class="row">
+            <img src="static/images/block-1_header/1_HEADER_logo.png" class="block1_header-logo no-drag">
+        </div>
+        <div class="row">
+            <img src="static/images/block-1_header/1_HEADER_head.png" class="block1_header-head no-drag">
+        </div>
+        <div class="row">
+            <a href="#" class="block1_header-play no-drag">
+                <img src="static/images/btn/BTN_play_normal.png">
+            </a>
+        </div>
+        <div class="row block1_header-text">
+            <br>
+            Судьба планеты ангелов в твоих руках! Древнее зло вырвалось из глубины<br>
+            преисподней, и лишь вмешательство героя спасет этот мир!<br>
+            Все зависит только от твоих решений!
+        </div>
+        <div class="row">
+            <a href="#header2" class="btnScroll_header no-drag">
+                <img src="static/images/btn/BTN_scroll_normal.png">
+            </a>
+        </div>
+    </div>
+</section>
+<section id="header2" class="block2">
+    <div class="container">
 
+        <div class="row">
+            <a href="#header2" class="btnScroll_header no-drag">
+                <img src="static/images/btn/BTN_scroll_normal.png">
+            </a>
+        </div>
+    </div>
+</section>
+
+<script>
+    $('.no-drag').each(function () {
+        $(this).bind('dragstart', function (e) {
+            if (window.event) event.preventDefault();
+            e.cancelBubble = true;
+            return false;
+        });
+    });
+</script>
 </body>
 </html>
