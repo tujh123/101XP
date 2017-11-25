@@ -1,0 +1,21 @@
+{
+  "name": "Training",
+  "authors": [
+    "tujh123 <e.bilenkov@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Third",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+      "jquery": "1.9.1"
+  }
+}
