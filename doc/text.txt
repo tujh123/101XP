@@ -1,0 +1,392 @@
+БЛОК 1 (Шапка)
+Текст:
+.Судьба_планеты_ангелов_в_твоих_руках__Древнее_з {
+  font-size: 24px;
+  font-family: "Lora";
+  color: rgb(238, 238, 238);
+  line-height: 1.5;
+  text-align: center;
+  position: absolute;
+  left: 478.244px;
+  top: 746.597px;
+  width: 942px;
+  height: 171px;
+  z-index: 13;
+}
+
+
+БЛОК 2 (Персонажи)
+Описание персонажа:
+.Зверолюд_Ллейн_выбрал_кровавый_путь_наемного_уб {
+  font-size: 24px;
+  font-family: "Lora";
+  color: rgb(249, 244, 233);
+  line-height: 1.5;
+  text-align: left;
+  text-shadow: 0px 5px 30px rgba(35, 27, 32, 0.004);
+  position: absolute;
+  left: 358px;
+  top: 1272.597px;
+  width: 480px;
+  height: 227px;
+  z-index: 178;
+}
+
+Название фракции (Изольда):
+.Империя_бессмертных {
+  font-size: 21px;
+  font-family: "Lora";
+  color: rgb(255, 50, 58);
+  line-height: 1.333;
+  text-align: left;
+  text-shadow: 0px 5px 30px rgba(35, 27, 32, 0.004);
+  position: absolute;
+  left: 405.516px;
+  top: 1205.148px;
+  width: 293px;
+  height: 81px;
+  z-index: 294;
+}
+
+Название фракции (Памела):
+.Союз_просвященных {
+  font-size: 21px;
+  font-family: "Lora";
+  color: rgb(202, 134, 255);
+  line-height: 1.333;
+  text-align: left;
+  text-shadow: 0px 5px 30px rgba(35, 27, 32, 0.004);
+  position: absolute;
+  left: 405.984px;
+  top: 1205.148px;
+  width: 271px;
+  height: 80px;
+  z-index: 247;
+}
+
+Название фракции (Ллейн):
+.Цитадель_небожителей_ {
+  font-size: 21px;
+  font-family: "Lora";
+  color: rgb(255, 196, 25);
+  line-height: 1.333;
+  text-align: left;
+  text-shadow: 0px 5px 30px rgba(35, 27, 32, 0.004);
+  position: absolute;
+  left: 405.516px;
+  top: 1205.148px;
+  width: 297px;
+  height: 79px;
+  z-index: 179;
+}
+
+Название скилла:
+.Конец_зимы {
+  font-size: 24px;
+  font-family: "Lora";
+  color: rgb(249, 244, 233);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 464.734px;
+  top: 1494.597px;
+  width: 139px;
+  height: 22px;
+  z-index: 275;
+}
+
+Описание скилла:
+._360__урона_авангарду_врага {
+  font-size: 16px;
+  font-family: "Lora";
+  color: rgb(188, 190, 193);
+  line-height: 2.25;
+  text-align: left;
+  position: absolute;
+  left: 464px;
+  top: 1527.398px;
+  width: 219px;
+  height: 16px;
+  z-index: 276;
+}
+
+Неизменный текст в нижней части блока:
+._60_наемников_с_неповторимой_историей_и_сотни_во {
+  font-size: 24px;
+  font-family: "Lora";
+  color: rgb(249, 244, 233);
+  line-height: 1.5;
+  text-align: center;
+  position: absolute;
+  left: 377.285px;
+  top: 1724.597px;
+  width: 1116px;
+  height: 95px;
+  z-index: 329;
+}
+
+
+БЛОК 3 (Видео)
+Размер ролика: 1920 x 856
+Текст под видеороликом:
+.Стань_самым_сильным_в_турнирах_и_накажи_противн {
+  font-size: 18px;
+  font-family: "Lora";
+  color: rgb(249, 244, 233);
+  line-height: 1.5;
+  text-align: center;
+  position: absolute;
+  left: 479.731px;
+  top: 2627.698px;
+  width: 940px;
+  height: 45px;
+  z-index: 349;
+}
+
+
+БЛОК 4 (Маунт)
+Уровень маунта:
+._1_уровень {
+  font-size: 24px;
+  font-family: "Lora";
+  color: rgb(255, 196, 25);
+  line-height: 1.167;
+  text-align: center;
+  text-shadow: 0px 5px 30px rgba(35, 27, 32, 0.004);
+  position: absolute;
+  left: 284.102px;
+  top: 3439.597px;
+  width: 168px;
+  height: 82px;
+  z-index: 392;
+}
+
+Текст в нижней части блока:
+.Пройди_десятки_элитных_данжей__собери_крепкие_д {
+  font-size: 24px;
+  font-family: "Lora";
+  color: rgb(249, 244, 233);
+  line-height: 1.5;
+  text-align: center;
+  position: absolute;
+  left: 388.129px;
+  top: 3544.597px;
+  width: 1102px;
+  height: 132px;
+  z-index: 382;
+}
+
+
+БЛОК 5 (Подвал)
+Текст над кнопками соц.сетей:
+.Поделись_страницей_в_социальной_сети {
+  font-size: 24px;
+  font-family: "Lora";
+  color: rgb(249, 244, 233);
+  line-height: 1.125;
+  text-align: center;
+  position: absolute;
+  left: 559.392px;
+  top: 4220.597px;
+  width: 467px;
+  height: 23px;
+  z-index: 407;
+}
+
+Текст о принятии условий под кнопками:
+.Нажимая_кнопку__Играть___вы_подтверждаете__что_ {
+  font-size: 14px;
+  font-family: "Lora";
+  color: rgba(181, 181, 181, 0.502);
+  line-height: 1.489;
+  text-align: center;
+  position: absolute;
+  left: 398.526px;
+  top: 4434.95px;
+  width: 482px;
+  height: 14px;
+  z-index: 444;
+}
+
+Ссылки в тексте о принятии условий под кнопками:
+.Пользовательского_соглашения {
+  font-size: 14px;
+  font-family: "Lora";
+  color: rgba(211, 211, 211, 0.502);
+  text-decoration: underline;
+  line-height: 1.489;
+  text-align: center;
+  position: absolute;
+  left: 690.804px;
+  top: 4489.95px;
+  width: 217px;
+  height: 14px;
+  z-index: 443;
+}
+
+
+ФОРМА РЕГИСТРАЦИИ
+
+Войти через соц.сеть или:
+.Войти_через_социальную_сеть {
+  font-size: 24px;
+  font-family: "LeksaPro";
+  color: rgba(255, 255, 255, 0.502);
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 568.8px;
+  top: 364.897px;
+  width: 337px;
+  height: 23px;
+  z-index: 497;
+}
+
+Подсказка в поле ввода:
+.ввести_e-mail {
+  font-size: 24px;
+  font-family: "LeksaPro";
+  color: rgba(255, 255, 255, 0.502);
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 568.8px;
+  top: 364.897px;
+  width: 337px;
+  height: 23px;
+  z-index: 497;
+}
+
+Текст в поле ввода:
+.ввести_e-mail {
+  font-size: 24px;
+  font-family: "LeksaPro";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 568.8px;
+  top: 364.897px;
+  width: 337px;
+  height: 23px;
+  z-index: 497;
+}
+
+Текст о принятии условий под кнопками:
+.Нажимая_кнопку__Играть___вы_подтверждаете__что_ {
+  font-size: 14px;
+  font-family: "Lora";
+  color: rgb(255, 255, 255);
+  line-height: 1.489;
+  text-align: center;
+  position: absolute;
+  left: 398.526px;
+  top: 4434.95px;
+  width: 482px;
+  height: 14px;
+  z-index: 444;
+}
+
+Ссылки в тексте о принятии условий под кнопками:
+.Пользовательского_соглашения {
+  font-size: 14px;
+  font-family: "Lora";
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+  line-height: 1.489;
+  text-align: center;
+  position: absolute;
+  left: 690.804px;
+  top: 4489.95px;
+  width: 217px;
+  height: 14px;
+  z-index: 443;
+}
+
+
+
+ФОРМА РЕГИСТРАЦИИ
+
+! наверху страницы логотип формы регистрации находится в том же месте, что и на самой странице;
+! после появления форма не скроллится;
+! чтобы убрать форму – нужно кликнуть вне её;
+
+Цвет заливки под формой:
+color: #2c2d34, opacity: 80%
+
+Войти через соц.сеть или:
+.Войти_через_социальную_сеть {
+  font-size: 24px;
+  font-family: "LeksaPro";
+  color: rgba(255, 255, 255, 0.502);
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 568.8px;
+  top: 364.897px;
+  width: 337px;
+  height: 23px;
+  z-index: 497;
+}
+
+
+
+ТЕКСТЫ
+
+Блок 1
+Судьба планеты ангелов в твоих руках! Древнее зло вырвалось из глубины преисподней, и лишь вмешательство героя спасет этот мир!
+Все зависит только от твоих решений!
+
+Блок 2
+Империя бессмертных
+
+Появление королевы холода и ее верного медведя предвещает ледяная буря. Неуязвимая Изольда замораживает противников насмерть и не знает пощады.
+
+Конец зимы
+
+360% урона авангарду врага
+
+Морозная ария
+
+Ледяной щит уменьшает получаемый урон на 20%
+
+Союз просвященных
+
+Памела — супруга древнего огненного дракона, одна из первых овладела магией. Никто не знает, на чьей стороне она сражается на самом деле.
+
+Черное дыхание
+
+Наносит врагу с мин. ОЗ 426% урона
+
+Проклятие дракона
+
+Проклинает всех врагов, снижая урон на 15%
+
+Цитадель небожителей 
+
+Зверолюд Ллейн выбрал кровавый путь наемного убийцы в тайной организации "Покров". Его прозвали “Дикий клинок” из-за жестокости и скорости.
+
+Дикий разрез
+
+Превращает 30% наносимого урона в ОЗ.
+
+Найти и уничтожить
+
+Наносит 313% урона врагу.
+
+60 наемников с неповторимой историей и сотни возможностей для построения команды ждут тебя! Система связей между персонажами — важная часть игрового сюжета и тонкий механизм настройки боевого отряда. Выбери свою фракцию и получай бонусы к мощи!
+
+Блок 3
+Стань самым сильным в турнирах и накажи противников с других серверов в кросс-серверных сражениях.
+Занимай места в PvP- и PvE-топах и получай эксклюзивные награды и доступ к магазинам для избранных!
+
+Блок 4
+1 уровень
+50 уровень
+Пройди десятки элитных данжей, собери крепкие доспехи и сильнейшее оружие и приручи верных маунтов. Добывай ценные ресурсы для максимальной прокачки снаряжения и отряда: развивай скиллы, применяй древние кодексы и собирай уникальные комбинации!
+Выработай свою стратегию боя и выбери ключевые умения для победы над врагами!
+
+Блок 5
+Поделись страницей в социальной сети
+Нажимая кнопку “Играть”, вы подтверждаете, что принимаете условия
+Пользовательского соглашения и Политики приватности.
