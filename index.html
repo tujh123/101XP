@@ -29,7 +29,7 @@
     <![endif]-->
 </head>
 <body id="index" class="index">
-<section id="header" class="block1">
+<section id="block_header" class="block1">
     <div class="container">
         <div class="row">
             <img src="static/images/block-1_header/1_HEADER_logo.png" class="block1_header-logo no-drag">
@@ -49,23 +49,74 @@
             Все зависит только от твоих решений!
         </div>
         <div class="row">
-            <a href="#header2" class="btnScroll_header no-drag">
+            <a href="#block_chars" class="btnScroll_header no-drag">
                 <img src="static/images/btn/BTN_scroll_normal.png">
             </a>
         </div>
     </div>
 </section>
-<section id="header2" class="block2">
+<section id="block_chars" class="block2">
     <div class="container">
 
         <div class="row">
-            <a href="#header2" class="btnScroll_header no-drag">
+            <a href="#block_video" class="btnScroll_header no-drag">
                 <img src="static/images/btn/BTN_scroll_normal.png">
             </a>
         </div>
     </div>
 </section>
+<section id="block_video" class="block3">
+    <div class="is_overlay">
+        <video id="video" width="100%" height="auto" autoplay="autoplay" loop="loop" preload="auto">
+            <source src="static/images/block-3_video/bg.mp4" type="video/mp4"></source>
+        </video>
+    </div>
+    <div class="container">
 
+        <div class="row">
+            <a href="#block_mount" class="btnScroll_video no-drag">
+                <img src="static/images/btn/BTN_scroll_normal.png">
+            </a>
+        </div>
+    </div>
+</section>
+<section id="block_mount" class="block4">
+    <div class="container-fluid">
+        <br>
+        <div class="row">
+            <img src="static/images/block-4_mount/4_MOUNT_head.png" class="block4_head no-drag">
+        </div>
+        <div class="row block4_rating-padding">
+            <div class="col-lg-4 col-lg-offset-1">
+                <img src="static/images/block-4_mount/4_MOUNT_rating_30000.png" class="block4_rating-1 no-drag"
+                     align="right">
+                <br>
+                <div class="block4_rating-text1">
+                    1 уровень
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <img src="static/images/block-4_mount/4_MOUNT_rating_150000.png" class="block4_rating-2 no-drag"
+                     align="right">
+                <br>
+                <div class="block4_rating-text2">
+                    50 уровень
+                </div>
+            </div>
+            <div class="row block4_rating-text3">
+                Пройди десятки элитных данжей, собери крепкие доспехи и сильнейшее оружие и приручи<br>
+                верных маунтов. Добывай ценные ресурсы для максимальной прокачки снаряжения и отряда:<br>
+                развивай скиллы, применяй древние кодексы и собирай уникальные комбинации!<br>
+                Выработай свою стратегию боя и выбери ключевые умения для победы над врагами!
+            </div>
+        </div>
+        <div class="row">
+            <a href="#block_video" class="btnScroll_header no-drag">
+                <img src="static/images/btn/BTN_scroll_normal.png">
+            </a>
+        </div>
+    </div>
+</section>
 <script>
     $('.no-drag').each(function () {
         $(this).bind('dragstart', function (e) {
